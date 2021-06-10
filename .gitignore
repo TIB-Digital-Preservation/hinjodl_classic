@@ -1,0 +1,5 @@
+venv
+*HINDAWI*
+*.log
+*.csv
+.idea
